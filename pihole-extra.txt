@@ -1,6 +1,6 @@
+# Error Trackers
 browser.sentry-cdn.com
 app.getsentry.com
-
 api.bugsnag.com
 app.bugsnag.com
 
@@ -20,6 +20,9 @@ s.youtube.com
 redirector.googlevideo.com
 youtubei.googleapis.com
 is.com
+
+# Mix
+udc.yahoo.com
 
 # Analytics
 tagmanager.google.com
