@@ -14,6 +14,7 @@ logbak.hicloud.com
 ads.huawei.com
 vortex.data.microsoft.com
 firebase-settings.crashlytics.com
+business.samsungusa.com
 
 # Ads
 s.youtube.com
