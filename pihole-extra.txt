@@ -19,6 +19,7 @@ firebase-settings.crashlytics.com
 s.youtube.com
 redirector.googlevideo.com
 youtubei.googleapis.com
+is.com
 
 # Analytics
 tagmanager.google.com
@@ -50,6 +51,7 @@ app.usercentrics.eu
 shareasale-analytics.com
 click.linksynergy.com
 impact.com
+api.impact.com
 www.awin1.com
 zenaps.com
 partnerstack.com
