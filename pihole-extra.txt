@@ -2,3 +2,9 @@ browser.sentry-cdn.com
 app.getsentry.com
 api.bugsnag.com
 app.bugsnag.com
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logbak.hicloud.com
