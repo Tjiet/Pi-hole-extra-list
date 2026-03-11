@@ -1,5 +1,5 @@
 
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
-api.bugsnag.com
-app.bugsnag.com
+||api.bugsnag.com*
+||app.bugsnag.com^
