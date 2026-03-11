@@ -1,10 +1,68 @@
 browser.sentry-cdn.com
 app.getsentry.com
+
 api.bugsnag.com
 app.bugsnag.com
+
+# Vendors
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
 grs.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
 logbak.hicloud.com
+ads.huawei.com
+vortex.data.microsoft.com
+firebase-settings.crashlytics.com
+
+# Ads
+s.youtube.com
+redirector.googlevideo.com
+youtubei.googleapis.com
+
+# Analytics
+tagmanager.google.com
+
+# Tracking & Fingerprinting
+thetradedesk.com
+bnc.lt
+clevertap-prod.com
+
+# Cryptominers & Malware
+2giga.link
+
+# Social Trackers
+connect.facebook.net
+graph.facebook.com
+graph.instagram.com
+i.instagram.com
+
+# Consent Management
+consent.cookiebot.com
+consentcdn.cookiebot.com
+cookiebot.com
+consent.trustarc.com
+sdk.privacy-center.org
+cdn.privacy-mgmt.com
+app.usercentrics.eu
+
+# Affiliate Networks
+shareasale-analytics.com
+click.linksynergy.com
+impact.com
+www.awin1.com
+zenaps.com
+partnerstack.com
+api.partnerstack.com
+refersion.com
+api.refersion.com
+redirect.viglink.com
+
+# Email Tracking
+widget.intercom.io
+
+# Video Ads
+dai.google.com
+ssl.p.jwpcdn.com
+mssl.fwmrm.net
+
