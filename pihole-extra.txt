@@ -18,7 +18,6 @@ business.samsungusa.com
 
 # Ads
 s.youtube.com
-redirector.googlevideo.com
 youtubei.googleapis.com
 is.com
 
