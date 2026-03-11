@@ -40,6 +40,7 @@ connect.facebook.net
 graph.facebook.com
 graph.instagram.com
 i.instagram.com
+widgets.pinterest.com
 
 # Consent Management
 consent.cookiebot.com
