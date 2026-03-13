@@ -49,7 +49,7 @@ consentcdn.cookiebot.com
 cookiebot.com
 consent.trustarc.com
 sdk.privacy-center.org
-cdn.privacy-mgmt.com
+# F1TV # cdn.privacy-mgmt.com
 app.usercentrics.eu
 
 # Affiliate Networks
