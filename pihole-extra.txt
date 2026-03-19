@@ -49,7 +49,7 @@ consentcdn.cookiebot.com
 cookiebot.com
 consent.trustarc.com
 sdk.privacy-center.org
-# F1TV # cdn.privacy-mgmt.com
+# - F1TV - # cdn.privacy-mgmt.com
 app.usercentrics.eu
 
 # Affiliate Networks
@@ -71,6 +71,6 @@ widget.intercom.io
 
 # Video Ads
 dai.google.com
-ssl.p.jwpcdn.com
+# - NU.nl - # ssl.p.jwpcdn.com
 mssl.fwmrm.net
 
