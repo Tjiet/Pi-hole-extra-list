@@ -1,9 +1,7 @@
 # --- Ads
 s.youtube.com
 redirector.googlevideo.com
-# [ Youtube ]
 youtubei.googleapis.com
-is.com
 ads30.adcolony.com
 adc3-launch.adcolony.com
 events3alt.adcolony.com
