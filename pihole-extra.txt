@@ -25,6 +25,7 @@ redirect.viglink.com
 
 # --- Analytics
 tagmanager.google.com
+mouseflow.com
 tools.mouseflow.com
 stats.wp.com
 rs.fullstory.com
