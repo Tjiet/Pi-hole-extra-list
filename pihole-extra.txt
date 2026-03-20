@@ -19,14 +19,21 @@ business.samsungusa.com
 # Ads
 s.youtube.com
 redirector.googlevideo.com
-# youtubei.googleapis.com
+# - Youtube - # youtubei.googleapis.com
 is.com
+ads30.adcolony.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
 
 # Mix
 udc.yahoo.com
 
 # Analytics
 tagmanager.google.com
+mouseflow.com
+tools.mouseflow.com
+stats.wp.com
 
 # Tracking & Fingerprinting
 thetradedesk.com
