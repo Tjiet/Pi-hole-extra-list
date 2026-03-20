@@ -34,6 +34,7 @@ tagmanager.google.com
 mouseflow.com
 tools.mouseflow.com
 stats.wp.com
+rs.fullstory.com
 
 # Tracking & Fingerprinting
 thetradedesk.com
