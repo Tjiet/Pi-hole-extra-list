@@ -26,6 +26,7 @@ tagmanager.google.com
 tools.mouseflow.com
 stats.wp.com
 rs.fullstory.com
+siftscience.com
 
 # --- Consent Management
 consent.cookiebot.com
@@ -74,6 +75,7 @@ ads.huawei.com
 vortex.data.microsoft.com
 firebase-settings.crashlytics.com
 business.samsungusa.com
+ngfts.lge.com
 
 # --- Video Ads
 dai.google.com
