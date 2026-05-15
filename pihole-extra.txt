@@ -57,6 +57,7 @@ graph.facebook.com
 graph.instagram.com
 i.instagram.com
 widgets.pinterest.com
+tr.facebook.com
 
 # --- Tracking & Fingerprinting
 thetradedesk.com
