@@ -80,6 +80,7 @@ firebase-settings.crashlytics.com
 business.samsungusa.com
 ngfts.lge.com
 xp.apple.com
+weather-analytics-events.apple.com
 
 # --- Video Ads
 dai.google.com
