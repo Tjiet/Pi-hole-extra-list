@@ -21,6 +21,7 @@ api.partnerstack.com
 refersion.com
 api.refersion.com
 redirect.viglink.com
+redirector.skimresources.com
 
 # --- Analytics
 tagmanager.google.com
