@@ -22,6 +22,7 @@ refersion.com
 api.refersion.com
 redirect.viglink.com
 redirector.skimresources.com
+t.pepperjamnetwork.com
 
 # --- Analytics
 tagmanager.google.com
@@ -29,6 +30,18 @@ tools.mouseflow.com
 stats.wp.com
 rs.fullstory.com
 siftscience.com
+eu.posthog.com
+us.i.posthog.com
+posthog.com
+rudderstack.com
+snowplowanalytics.com
+
+# --- A/B Testing
+events.launchdarkly.com
+clientstream.launchdarkly.com
+api.onesignal.com
+klaviyo.com
+customer.io
 
 # --- Consent Management
 consent.cookiebot.com
@@ -38,6 +51,9 @@ consent.trustarc.com
 sdk.privacy-center.org
 # [ F1TV ] cdn.privacy-mgmt.com
 app.usercentrics.eu
+privacyportal.onetrust.com
+cmp.inmobi.com
+cmp.osano.com
 
 # --- Cryptominers & Malware
 2giga.link
@@ -45,12 +61,14 @@ greatis.com
 
 # --- Email Tracking
 widget.intercom.io
+click.mailchimp.com
 
 # --- Error Trackers
 browser.sentry-cdn.com
 app.getsentry.com
 api.bugsnag.com
 app.bugsnag.com
+o0.ingest.sentry.io
 
 # --- Social Trackers
 connect.facebook.net
@@ -59,6 +77,7 @@ graph.instagram.com
 i.instagram.com
 widgets.pinterest.com
 tr.facebook.com
+qevents.quora.com
 
 # --- Tracking & Fingerprinting
 thetradedesk.com
