@@ -7,6 +7,9 @@ adc3-launch.adcolony.com
 events3alt.adcolony.com
 wd.adcolony.com
 is.com
+liftoff.io
+pangleglobal.com
+pangleglobal.com
 
 # --- Affiliate Networks
 shareasale-analytics.com
@@ -78,6 +81,7 @@ i.instagram.com
 widgets.pinterest.com
 tr.facebook.com
 qevents.quora.com
+ads.x.com
 
 # --- Tracking & Fingerprinting
 thetradedesk.com
