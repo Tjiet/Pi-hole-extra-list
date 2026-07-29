@@ -38,6 +38,7 @@ us.i.posthog.com
 posthog.com
 rudderstack.com
 snowplowanalytics.com
+app.posthog.com
 
 # --- A/B Testing
 events.launchdarkly.com
