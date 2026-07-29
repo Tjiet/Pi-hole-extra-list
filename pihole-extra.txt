@@ -10,6 +10,8 @@ is.com
 liftoff.io
 pangleglobal.com
 pangleglobal.com
+cdn.kargo.com
+sync.kargo.com
 
 # --- Affiliate Networks
 shareasale-analytics.com
