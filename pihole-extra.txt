@@ -75,6 +75,7 @@ app.getsentry.com
 api.bugsnag.com
 app.bugsnag.com
 o0.ingest.sentry.io
+rum.browser-intake-datadoghq.com
 
 # --- Social Trackers
 connect.facebook.net
