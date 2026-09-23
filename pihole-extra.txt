@@ -12,7 +12,8 @@ pangleglobal.com
 pangleglobal.com
 cdn.kargo.com
 sync.kargo.com
-yandex.ru
+metrika.yandex.ru
+appmetrica.yandex.ru
 
 # --- Affiliate Networks
 shareasale-analytics.com
