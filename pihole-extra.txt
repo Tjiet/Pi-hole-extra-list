@@ -12,6 +12,7 @@ pangleglobal.com
 pangleglobal.com
 cdn.kargo.com
 sync.kargo.com
+yandex.ru
 
 # --- Affiliate Networks
 shareasale-analytics.com
