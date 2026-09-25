@@ -1,3 +1,5 @@
+# Pi-Hole extra list
+
 udc.yahoo.com
 s.youtube.com
 redirector.googlevideo.com
