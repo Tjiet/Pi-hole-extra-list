@@ -67,9 +67,10 @@ cmp.osano.com
 2giga.link
 greatis.com
 
-# --- Email Tracking
+# --- Email Tracking & Live Chat
 widget.intercom.io
 click.mailchimp.com
+js.driftt.com
 
 # --- Error Trackers
 browser.sentry-cdn.com
