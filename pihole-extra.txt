@@ -78,6 +78,9 @@ api.bugsnag.com
 app.bugsnag.com
 o0.ingest.sentry.io
 rum.browser-intake-datadoghq.com
+bam-cell.nr-data.net
+cdn.lr-ingest.com
+r.lr-ingest.com
 
 # --- Social Trackers
 connect.facebook.net
@@ -111,6 +114,7 @@ business.samsungusa.com
 ngfts.lge.com
 xp.apple.com
 weather-analytics-events.apple.com
+browser.events.data.msn.com
 
 # --- Video Ads
 dai.google.com
