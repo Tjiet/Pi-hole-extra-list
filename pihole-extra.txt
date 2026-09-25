@@ -1,123 +1,57 @@
-# --- Ads
+udc.yahoo.com
 s.youtube.com
 redirector.googlevideo.com
-# [ Youtube ] youtubei.googleapis.com
-ads30.adcolony.com
-adc3-launch.adcolony.com
-events3alt.adcolony.com
-wd.adcolony.com
-is.com
-liftoff.io
-pangleglobal.com
-pangleglobal.com
-cdn.kargo.com
-sync.kargo.com
-metrika.yandex.ru
-appmetrica.yandex.ru
-
-# --- Affiliate Networks
-shareasale-analytics.com
-click.linksynergy.com
-impact.com
-api.impact.com
-awin1.com
-www.awin1.com
-zenaps.com
-partnerstack.com
-api.partnerstack.com
-refersion.com
-api.refersion.com
-redirect.viglink.com
-redirector.skimresources.com
-t.pepperjamnetwork.com
-
-# --- Analytics
 tagmanager.google.com
-tools.mouseflow.com
-stats.wp.com
-rs.fullstory.com
-siftscience.com
+app.posthog.com
 eu.posthog.com
 us.i.posthog.com
-posthog.com
 rudderstack.com
 snowplowanalytics.com
-app.posthog.com
-
-# --- A/B Testing
-events.launchdarkly.com
-clientstream.launchdarkly.com
-api.onesignal.com
-klaviyo.com
-customer.io
-
-# --- Consent Management
-consent.cookiebot.com
-consentcdn.cookiebot.com
-cookiebot.com
-consent.trustarc.com
-sdk.privacy-center.org
-# [ F1TV ] cdn.privacy-mgmt.com
-app.usercentrics.eu
-privacyportal.onetrust.com
-cmp.inmobi.com
-cmp.osano.com
-
-# --- Cryptominers & Malware
-2giga.link
-greatis.com
-
-# --- Email Tracking & Live Chat
-widget.intercom.io
-click.mailchimp.com
-js.driftt.com
-
-# --- Error Trackers
+siftscience.com
+bnc.lt
 browser.sentry-cdn.com
-app.getsentry.com
-api.bugsnag.com
-app.bugsnag.com
 o0.ingest.sentry.io
-rum.browser-intake-datadoghq.com
 bam-cell.nr-data.net
 cdn.lr-ingest.com
 r.lr-ingest.com
-
-# --- Social Trackers
 connect.facebook.net
 graph.facebook.com
 graph.instagram.com
 i.instagram.com
 widgets.pinterest.com
-tr.facebook.com
 qevents.quora.com
-ads.x.com
-
-# --- Tracking & Fingerprinting
-thetradedesk.com
-bnc.lt
-clevertap-prod.com
-
-# --- Mix
-udc.yahoo.com
-
-# --- Vendors
-metrics.data.hicloud.com
-metrics2.data.hicloud.com
-grs.hicloud.com
-logservice.hicloud.com
-logservice1.hicloud.com
-logbak.hicloud.com
-ads.huawei.com
-vortex.data.microsoft.com
-firebase-settings.crashlytics.com
-business.samsungusa.com
-ngfts.lge.com
+advertising.apple.com
+tr.iadsdk.apple.com
+iadsdk.apple.com
+metrics.icloud.com
+api-adservices.apple.com
+books-analytics-events.apple.com
+notes-analytics-events.apple.com
 xp.apple.com
-weather-analytics-events.apple.com
+ads.huawei.com
+ngfts.lge.com
+vortex.data.microsoft.com
 browser.events.data.msn.com
-
-# --- Video Ads
+firebase-settings.crashlytics.com
+privacyportal.onetrust.com
+consent.cookiebot.com
+consentcdn.cookiebot.com
+cookiebot.com
+consent.trustarc.com
+sdk.privacy-center.org
+app.usercentrics.eu
+cmp.inmobi.com
+cmp.osano.com
+click.linksynergy.com
+www.awin1.com
+zenaps.com
+refersion.com
+redirect.viglink.com
+events.launchdarkly.com
+clientstream.launchdarkly.com
+click.mailchimp.com
+widget.intercom.io
+js.driftt.com
+api.onesignal.com
+customer.io
 dai.google.com
-# [ NU.nl ] ssl.p.jwpcdn.com
-mssl.fwmrm.net
