@@ -57,3 +57,7 @@ js.driftt.com
 api.onesignal.com
 customer.io
 dai.google.com
+partnerstack.com
+api.partnerstack.com
+t.pepperjamnetwork.com
+mssl.fwmrm.net
