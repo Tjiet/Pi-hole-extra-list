@@ -6,5 +6,5 @@ cdn.privacy-mgmt.com
 # NU.nl
 ssl.p.jwpcdn.com
 
-*.apple.com
-*.icloud.com
+(\.|^)apple\.com$
+(\.|^)icloud\.com$
