@@ -1,4 +1,10 @@
 # Pi-Hole extra allow list
 
-apple.com
-icloud.com
+# F1
+cdn.privacy-mgmt.com
+
+# NU.nl
+ssl.p.jwpcdn.com
+
+*.apple.com
+*.icloud.com
