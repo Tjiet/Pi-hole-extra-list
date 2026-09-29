@@ -1,4 +1,4 @@
-# Pi-Hole extra list
+# Pi-Hole extra block list
 
 udc.yahoo.com
 s.youtube.com
