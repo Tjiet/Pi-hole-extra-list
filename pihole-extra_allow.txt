@@ -1,0 +1,4 @@
+# Pi-Hole extra allow list
+
+apple.com
+icloud.com
